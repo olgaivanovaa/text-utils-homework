@@ -20,7 +20,9 @@ Lets go thrugh them step by step before actually going into python - trust me :)
   - what could be implemented as functions (you need 2-4)
   - where do you want to write and run the code
   - how are all your files stored?
-  
+- what about copilot hmmm?
+- is it okay when you habe collaborators on your repo?
+
 ## Python Quesitons
 - functions
   - how do you implement a function
